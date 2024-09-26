@@ -1,7 +1,7 @@
-from django.urls import path
-from . import views
+from django.contrib import admin
+from django.urls import path, include
 
 urlpatterns = [
-    path('predict/', views.predict_stock_price),
-   
+    path('admin/', admin.site.urls),
+    path('myapp/', include('myapp.urls')),  # Include your app's URLs
 ]
