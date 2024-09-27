@@ -39,18 +39,3 @@ Usage
 Enter a future date in the provided input field (format: YYYY-MM-DD).
 Click on the "Predict" button.
 View the predicted stock price and the plot comparing historical and predicted prices.
-
-
-# Stock Price Prediction Application
-
-This Django application predicts future stock prices using a Decision Tree regression model. 
-## Features
-- Predicts stock prices based on historical data.
-- Simple web interface for user interaction.
-
-## Technologies Used
-
-- **Backend**: Django
-- **Frontend**: HTML, CSS
-- **Data Science**: Pandas, NumPy, Matplotlib, Scikit-learn
-
