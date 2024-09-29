@@ -1,3 +1,4 @@
+![Stock Price Curve]()
 
 # Stock Price Prediction Application
 
