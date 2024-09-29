@@ -1,7 +1,7 @@
 
 # Stock Price Prediction Application
 
-This Django application predicts future stock prices using a Decision Tree regression model and shows the comparssion between predited price and actual price.
+This Django application predicts future stock prices using a Decision Tree regression model and shows the comparission between predited price and actual price.
 
 ## Features
 
