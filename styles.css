@@ -1,4 +1,6 @@
+/* styles.css */
 
+/* Body styling */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -54,6 +56,14 @@ button:hover {
     border-radius: 4px;
 }
 
+/* Chart container styling */
+.chart-container {
+    margin-top: 20px;
+    position: relative;
+    height: 400px; /* Set a height for the chart */
+}
+
+/* Chart styling for success and error messages */
 .success {
     background-color: #dff0d8;
     color: #3c763d;
