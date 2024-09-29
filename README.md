@@ -1,4 +1,4 @@
-![Stock Price Curve]()
+![Stock Price Curve](https://github.com/acrobyte007/Stock_Price_Prediction/blob/main/Stock%20Price.PNG)
 
 # Stock Price Prediction Application
 
